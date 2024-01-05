@@ -1,6 +1,6 @@
 {
-  "name": "mujhtech/sendchamp",
-  "description": "Laravel package  for sendchamp api",
+  "name": "edenlife/laravel-sendchamp",
+  "description": "Laravel package for sendchamp api",
   "keywords": [
     "php",
     "github",
@@ -14,7 +14,9 @@
     "mujhtech",
     "laravel 6",
     "laravel 7",
-    "laravel 8"
+    "laravel 8",
+    "laravel 9",
+    "laravel 10"
   ],
   "license": "MIT",
   "minimum-stability": "stable",
